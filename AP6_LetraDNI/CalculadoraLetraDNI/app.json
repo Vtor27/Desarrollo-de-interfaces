@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Calcula_Letra_DNI",
-    "slug": "Calcula_Letra_DNI",
+    "name": "CalculadoraLetraDNI",
+    "slug": "CalculadoraLetraDNI",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
